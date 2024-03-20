@@ -1,5 +1,6 @@
 bool isLogin = true;
 
 void main() {
-  print(!!isLogin);
+  print(10 > 9);
+  print('Hendri' == 'hendri');
 }
